@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **Python, Management, stocks options, everthing of artificial intelligence**
 
-💬 Ask me about **Business, AI, Valuations, Taxes, Dropshippung... or anything 
+💬 Ask me about **Business, AI, Valuations, Taxes, Dropshippung... or anything** 
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
