@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **ecocircle.space and wastewise.space** 
  
  🌱 I’m currently learning **Python, Management, stocks options, everthing of artificial intelligence**
 
