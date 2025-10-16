@@ -8,7 +8,10 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **ecocircle.space and wastewise.space** 
+ 🔭 I’m currently working on **Defi and blockchain**  
+
+
+Recents: https://www.yieldpred.space/
  
  🌱 I’m currently learning **Python, Management, stocks options, everthing of artificial intelligence**
 
