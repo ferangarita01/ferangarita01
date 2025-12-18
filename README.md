@@ -8,12 +8,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Defi and blockchain**  
+ 🔭 I’m currently working on **AI, Defi and blockchain**  
 
 
-Recents: https://www.yieldpred.space/
+Recents: https://www.yieldpred.space/ 
+
  
- 🌱 I’m currently learning **Python, Management, stocks options, everthing of artificial intelligence**
+ 🌱 I’m currently building AI voice systems that answer, qualify, sell, and route calls 24/7 — and sharing what actually works, what breaks, and what we learn along the way.**
 
 💬 Ask me about **Business, AI, Valuations, Taxes, Dropshippung... or anything** 
 
