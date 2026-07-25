@@ -10,9 +10,6 @@
  
  🔭 I’m currently working on **AI, Defi and blockchain, Fine tuning, security**  
 
-
-Recents: https://www.yieldpred.space/, https://www.ifluently.space/ , https://rentman.space/ , https://vayre.app/
-
  
  🌱 I’m currently building AI voice systems that answer, qualify, sell, and route calls 24/7 — and sharing what actually works, what breaks, and what we learn along the way.**
 
