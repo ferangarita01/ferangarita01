@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=3500&color=00F0FF&lines=Hi+There!+👋+I'm+Olffer+Angarita!;Cybersecurity+Engineer+%26+Systems+Architect;Bug+Bounty+Recon+%26+Cloud+Security;AI+Voice+Agents+%26+Quant+Trading;" alt="Olffer Angarita Typing Header" />
 </h1>
 
-<h3 align="center">🛡️ Cybersecurity Engineer | Bug Bounty Recon Specialist | AI & Systems Architect 🇨🇴 ⚡</h3>
+<h3 align="center">🛡️ AI & Systems Architect 🇨🇴 ⚡</h3>
 
 <p align="center">
   <a href="mailto:ferangarita01@gmail.com">
