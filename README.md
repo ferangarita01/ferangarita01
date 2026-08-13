@@ -13,7 +13,7 @@
  
  🌱 I’m currently building AI voice systems that answer, qualify, sell, and route calls 24/7 — and sharing what actually works, what breaks, and what we learn along the way.**
 
-💬 Ask me about **Business, AI, Valuations, Taxes, Dropshippung... or anything** 
+💬 Ask me about **Business, AI, Valuations, LLMs, Fine tuning, Predictions... or anything** 
 
 
  </div>
