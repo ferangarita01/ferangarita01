@@ -14,7 +14,6 @@
   <a href="https://github.com/ferangarita01" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
-  <img src="https://img.shields.io/badge/Specialty-Cybersecurity%20%26%20Recon-00F0FF?style=for-the-badge" alt="Security Specialty" />
 </p>
 
 <hr/>
