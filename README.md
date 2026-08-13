@@ -79,7 +79,7 @@
 <div align="center">
   <img height="185" src="https://github-readme-stats-fast.vercel.app/api?username=ferangarita01&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Ferangarita GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="185" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ferangarita01&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferangarita01&theme=2077" alt="Profile Details" />
 </div>
 
 <br/>
